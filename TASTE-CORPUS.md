@@ -2,17 +2,20 @@
 
 Reference set of yap-format reels. Read this before writing any script — pull pacing and hook structure from what's here, not from priors.
 
-Updated 2026-08-25 · 8 active · 0 archived (older than 90 days)
+Updated 2026-08-25 · 11 active · 0 archived (older than 90 days)
 
 ## Measured baseline
 
-- Pace: 2.99–4.71 words/sec (median 4.04)
-- Length: 8.5–100.1s (median 56.2s)
+- Pace: 2.93–4.71 words/sec (median 3.95)
+- Length: 8.5–100.1s (median 53.4s)
 
 ## Hooks only
 
 First three seconds, verbatim. Scan this before running HOOKS.
 
+- I made up a deodorant brand that does not exist. And three weeks later, ChachiPT
+- How do you have so many lady friends? You must be a player. Nah, I'm just not trying to crack. I figured out if you use this head and not
+- Besties, I learned a lot this year. I went from 10 to 11 in only
 - Here are the list of extracurriculars you should do as a junior that admission officers
 - Have you ever wondered what actually makes a video go viral? Well, there's actually a
 - how to be sophomore slum no you can't accept your fate it's gonna be good
@@ -23,6 +26,45 @@ First three seconds, verbatim. Scan this before running HOOKS.
 - sentences i read that actually changed my life until death all defeat is psychological one
 
 ## Entries
+
+### boysclub.world · 96.0s
+
+https://www.instagram.com/reel/Dbq6b2xSMCQ
+
+**Pace:** 4.24 w/s · **beat:** 3.64s · **words:** 407
+
+
+**Hook:** I made up a deodorant brand that does not exist. And three weeks later, ChachiPT
+
+**Transcript:**
+
+I made up a deodorant brand that does not exist. And three weeks later, ChachiPT was recommending it to strangers. I spent $11 on a domain. It took me one hour of work. I didn't do any weird Reddit stuff, no fake reviews. And here's where I did that. So I've written a tech newsletter for five years. And since June, I've been mapping what I'm calling the AI shelf. To picture an actual shelf in a store, you asked ChachiPT what to buy, and there's a short list of brands it reaches for. That's this shelf. That's the AI shelf. I've run almost 9 ,000 queries at it. No one can see the shelf it's opaque but it sits in front of six trillion dollars worth of global shelf. It's opaque, $6 trillion. e -commerce if not north of that so i wanted to know can you get on the shelf and you can so by day 21 i got my first hit by day 30 chat gpt with browsing on named morowan and directly underneath it this very real brand one of them exists one of them definitely does not now it only moved to my 15 queries native still fully owns the category i just found one little dusty shelf in the back of the store that was still open. Longtail is where the opportunity is. long tail is No surprise there. But beyond that, it reveals something about my relationship to shopping and AI that I think is going to have a huge impact. So you put something into Google and you get a list of links. You have some media literacies. You get to decide who to trust. What AI did with Morrowind is it handed the copy that I wrote back to me in its own voice. And that voice made it sound vetted. It made it sound like it had some authority. But of course it doesn't. And that's before agents own the whole loop from recommendation to purchase. So pretty soon I'm going to be telling my agent to keep my cabinet stocked. So it's going to pick, it's going to pay. Trillions of dollars are going to be moving through this door that currently no one can audit. It's very high stakes. Almost no one's watching it. I am. I test every month. So follow along.
+
+### nycrufaaa · 46.6s
+
+https://www.instagram.com/reel/DbJNWADxrCl
+
+**Pace:** 3.95 w/s · **beat:** 4.04s · **words:** 184
+
+
+**Hook:** How do you have so many lady friends? You must be a player. Nah, I'm just not trying to crack. I figured out if you use this head and not
+
+**Transcript:**
+
+How do you have so many lady friends? You must be a player. Nah, I'm just not trying to crack. I figured out if you use this head and not that one, the results are astonishing. For the price of one appetizer and the occasional compliment, you'll get access to an international intelligence network. Buy them food, call them skinny. Next thing you know, you have a team of eight federal agents feeding you information. They know and see everything. I don't got lady friends. I got a surveillance system. I'll sneeze in New Jersey. Someone in Miami will text me, bless you. They know things that haven't happened yet. I got warned about drama sketch... I got warned about drama scheduled for next Thursday. I called this one girl cute. Within six minutes, I received a 14 -page report and a family tree. I don't network. I feed one of them mozzarella sticks and wait for the intelligence briefing. A private investigator charges $500 an hour. Stacey charges one appetizer and one margarita. And in return, you get the Department of Homeland Security.
+
+### capriwang · 26.6s
+
+https://www.instagram.com/reel/Da22-fiB8d8
+
+**Pace:** 2.93 w/s · **beat:** 4.88s · **words:** 78
+
+
+**Hook:** Besties, I learned a lot this year. I went from 10 to 11 in only
+
+**Transcript:**
+
+Besties, I learned a lot this year. I went from 10 to 11 in only one year. For some people, that can take 12 months, maybe even 365 days. So remember, no matter how difficult life can get, your back will always be behind you. Whenever one door closes, it's not open anymore. And wherever you go, that's where you'll be. And at the end of the day, it's going to be night time. I hope this helped.
 
 ### fatimahs.guide · 60.2s
 
