@@ -2,7 +2,7 @@
 
 Reference set of yap-format reels. Read this before writing any script — pull pacing and hook structure from what's here, not from priors.
 
-Updated 2026-09-21 · 14 active · 0 archived (older than 90 days)
+Updated 2026-09-28 · 14 active · 0 archived (older than 90 days)
 
 ## Measured baseline
 
