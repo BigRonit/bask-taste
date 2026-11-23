@@ -2,12 +2,12 @@
 
 Reference set of yap-format reels. Read this before writing any script — pull pacing and hook structure from what's here, not from priors.
 
-Updated 2026-11-16 · 14 active · 0 archived (older than 90 days)
+Updated 2026-11-23 · 3 active · 11 archived (older than 90 days)
 
 ## Measured baseline
 
-- Pace: 2.93–4.91 words/sec (median 4.04)
-- Length: 8.5–178.2s (median 56.2s)
+- Pace: 3.31–4.91 words/sec (median 4.42)
+- Length: 47.5–178.2s (median 58.6s)
 
 ## Hooks only
 
@@ -16,17 +16,6 @@ First three seconds, verbatim. Scan this before running HOOKS.
 - This is the exact cold email that made an internationally recognized toxicologist reply to
 - At 16, I published peer -reviewed research with Harvard and Stanford and one second place
 - The cold email tips that are going to change your life coming from a Harvard
-- I made up a deodorant brand that does not exist. And three weeks later, ChachiPT
-- How do you have so many lady friends? You must be a player. Nah, I'm just not trying to crack. I figured out if you use this head and not
-- Besties, I learned a lot this year. I went from 10 to 11 in only
-- Here are the list of extracurriculars you should do as a junior that admission officers
-- Have you ever wondered what actually makes a video go viral? Well, there's actually a
-- how to be sophomore slum no you can't accept your fate it's gonna be good
-- How to post on your main 101. Some people don't understand how serious posting on
-- The reason why Gen Z is so obsessed with locking in is because we have
-- As my dead grandma once said, son, you just gotta mog your ops on
-- One of the best projects you can put on your resume is reproducing the results
-- sentences i read that actually changed my life until death all defeat is psychological one
 
 ## Entries
 
@@ -72,151 +61,18 @@ https://www.instagram.com/reel/DaQ0jXdPW5u
 
 The cold email tips that are going to change your life coming from a Harvard student. If you guys know me, you know that I came from an immigrant background. We started out with nothing. I got every single opportunity by myself because my parents had no connections that they could give me. So through cold emailing, through cold outreach, I was able to grow my nonprofit to this worldwide organization, land media features, get on TEDx, publish my first book. And along the way, I've gained so many mentors and a lot of different influencers, celebrity connections literally just through cold emailing before i get into my list celebrity connections, literally just through cold emailing. of tips, a general practice is to set aside time like one hour every single week or month even and figure out people that you want to code email and you can separate them into quadrants for like these people will help me with my career these people are for school these people for my company organization etc make sure you always go in with a goal in mind and you can easily find contact information through websites and google ai is a great help now also a hack is not only just using linkedin and social media but if you go on youtube and click more information oftentimes the YouTube is linked to their email. Checklist for cold pitches. Number one, make sure that the email subject is under nine words, ideally under five, and it needs to be eye -catching. So what is something that you could read on their phone? Because a lot of these really busy people are checking their emails on their phone. Use attractive language where you're framing it as a way to benefit them, like partnership with XYZ, inspiring XYZ, opportunity to XYZ, bold what I call statistics or your ask. So discuss like recent achievements, discuss who you are, You say achievements, discuss who you are. like why would that person be interested in talking to you? So when I'm pitching for my nonprofit or my background, I'll bold, like, we've reached X, Y, Z amount of people who've been featured in Forbes, in L 'Oreal Paris, et cetera. If it is like a cold intro, like if you've never talked to this person before, I would always recommend asking just to talk for 15 minutes and learn about their journey. So again, frame it like you find that person so inspiring. You want to learn from them because they are this incredible person. So once again, you want to be very careful about your wording, where you are, and kind of framing it in a positive light for them. Number three, kind of in alignment of. with that, include a background on your story and try to make it sound in alignment with whatever their mission or goal is, but keep it concise. And oftentimes for my bio, I will put a line under my entire email and then do the rest of my bio if it's really long, just so that they can look more into who I am and understand who I am if they want to. But if not, they can just read the general subject of the email. Number four, provide external links that they can look at if they want to. So I'll link websites, I'll include social media. Number five, always make it a two -way street. If you are asking If you for a fundraising opportunity for an investor relationship, include how that person or company can also benefit in addition to what you are benefiting from. So if my nonprofit wants to partner with another company, I will often mention how we have XYZ amount of volunteers, we can help them reach the youth demographic, we have XYZ amount of followers, we can post about them. Number six, schedule send for 7 to 9 a .m. Monday through Wednesday is ideal. Those are just general business hours people would like to check their email and work during those hours and those business hours. email and work during those hours. days and it's good if you can catch them before the workday starts and then lastly always send two follow -up emails before giving up because that usually means you need to try an alternative avenue like emailing their assistant or someone lower than them or reaching out on a different social media platform i care so much about the topic that i wrote a book on it it has full
 
-### boysclub.world · 96.0s
-
-https://www.instagram.com/reel/Dbq6b2xSMCQ
-
-**Pace:** 4.24 w/s · **beat:** 3.64s · **words:** 407
-
-
-**Hook:** I made up a deodorant brand that does not exist. And three weeks later, ChachiPT
-
-**Transcript:**
-
-I made up a deodorant brand that does not exist. And three weeks later, ChachiPT was recommending it to strangers. I spent $11 on a domain. It took me one hour of work. I didn't do any weird Reddit stuff, no fake reviews. And here's where I did that. So I've written a tech newsletter for five years. And since June, I've been mapping what I'm calling the AI shelf. To picture an actual shelf in a store, you asked ChachiPT what to buy, and there's a short list of brands it reaches for. That's this shelf. That's the AI shelf. I've run almost 9 ,000 queries at it. No one can see the shelf it's opaque but it sits in front of six trillion dollars worth of global shelf. It's opaque, $6 trillion. e -commerce if not north of that so i wanted to know can you get on the shelf and you can so by day 21 i got my first hit by day 30 chat gpt with browsing on named morowan and directly underneath it this very real brand one of them exists one of them definitely does not now it only moved to my 15 queries native still fully owns the category i just found one little dusty shelf in the back of the store that was still open. Longtail is where the opportunity is. long tail is No surprise there. But beyond that, it reveals something about my relationship to shopping and AI that I think is going to have a huge impact. So you put something into Google and you get a list of links. You have some media literacies. You get to decide who to trust. What AI did with Morrowind is it handed the copy that I wrote back to me in its own voice. And that voice made it sound vetted. It made it sound like it had some authority. But of course it doesn't. And that's before agents own the whole loop from recommendation to purchase. So pretty soon I'm going to be telling my agent to keep my cabinet stocked. So it's going to pick, it's going to pay. Trillions of dollars are going to be moving through this door that currently no one can audit. It's very high stakes. Almost no one's watching it. I am. I test every month. So follow along.
-
-### nycrufaaa · 46.6s
-
-https://www.instagram.com/reel/DbJNWADxrCl
-
-**Pace:** 3.95 w/s · **beat:** 4.04s · **words:** 184
-
-
-**Hook:** How do you have so many lady friends? You must be a player. Nah, I'm just not trying to crack. I figured out if you use this head and not
-
-**Transcript:**
-
-How do you have so many lady friends? You must be a player. Nah, I'm just not trying to crack. I figured out if you use this head and not that one, the results are astonishing. For the price of one appetizer and the occasional compliment, you'll get access to an international intelligence network. Buy them food, call them skinny. Next thing you know, you have a team of eight federal agents feeding you information. They know and see everything. I don't got lady friends. I got a surveillance system. I'll sneeze in New Jersey. Someone in Miami will text me, bless you. They know things that haven't happened yet. I got warned about drama sketch... I got warned about drama scheduled for next Thursday. I called this one girl cute. Within six minutes, I received a 14 -page report and a family tree. I don't network. I feed one of them mozzarella sticks and wait for the intelligence briefing. A private investigator charges $500 an hour. Stacey charges one appetizer and one margarita. And in return, you get the Department of Homeland Security.
-
-### capriwang · 26.6s
-
-https://www.instagram.com/reel/Da22-fiB8d8
-
-**Pace:** 2.93 w/s · **beat:** 4.88s · **words:** 78
-
-
-**Hook:** Besties, I learned a lot this year. I went from 10 to 11 in only
-
-**Transcript:**
-
-Besties, I learned a lot this year. I went from 10 to 11 in only one year. For some people, that can take 12 months, maybe even 365 days. So remember, no matter how difficult life can get, your back will always be behind you. Whenever one door closes, it's not open anymore. And wherever you go, that's where you'll be. And at the end of the day, it's going to be night time. I hope this helped.
-
-### fatimahs.guide · 60.2s
-
-https://www.instagram.com/reel/DZiqHREKbbH
-
-**Pace:** 2.99 w/s · **beat:** 5.08s · **words:** 180
-
-
-**Hook:** Here are the list of extracurriculars you should do as a junior that admission officers
-
-**Transcript:**
-
-Here are the list of extracurriculars you should do as a junior that admission officers actually care about. Junior year is your last chance to start meaningful activities that colleges notice. While everyone else has identical resumes, these will make you stand out completely. Activity number one, start a microbusiness that solves a real problem. I started a tutoring service for middle schoolers struggling with coding. I helped 10 students improve their skills and showed entrepreneurial initiative. Colleges eat this up because it demonstrates real -world and showed entrepreneurial initiative. Colleges eat this up because impact and leadership. Activity number two, create a community advocacy project. Find an issue in your local area and do something about it. You can organize specific campaigns and even present it to your city council. This shows initiative beyond just volunteering. Activity number three, become a certified expert in something unique. Get certified in CPR, become a lifeguard, learn coding languages or get photography credentials. These aren't just resume fillers. These are skills that demonstrate your commitment and can develop your real -world skills.
-
-### instagram · 56.2s
-
-https://www.instagram.com/reel/DbA8yurJ-hf
-
-**Pace:** 4.11 w/s · **beat:** 3.76s · **words:** 231
-
-
-**Hook:** Have you ever wondered what actually makes a video go viral? Well, there's actually a
-
-**Transcript:**
-
-Have you ever wondered what actually makes a video go viral? Well, there's actually a science to virality. And it's not a complicated setup. You can literally break it down with one Claude skill called slash analyze. So before you spend another night doomscrolling and saving videos instead of actually creating, try this. Step one, go to Claude, click customize, then skills, then press upload a skill and drag in this skills file. Step two, then simply go to the regular chat, type slash analyze and paste in any video link. Claude will pull the entire transcript, the hook, the format, and the storytelling structure. Claude will pull the entire transcript, the hook, the format and the storytelling. Step 3, and this is where it gets fun. Paste in 10 links, or even 100 links, and Claude will batch analyze the entire set. Claude will find patterns across all of them, all at once. But here's the part that most people miss. One video breakdown is interesting, but the batch view is where the strategy is at. It shows you the exact reoccurring hooks and formats that are being rewarded in your niche right now. That's the research that most creators aren't doing. So in summary, save the reels that stop your scroll, and then let Claude reverse engineer why. Drop your scroll and then let Claude reverse engineer why. guide.
-
-### junejueunn · 8.5s
-
-https://www.instagram.com/reel/DcZ1xmZgMk9
-
-**Pace:** 4.71 w/s · **beat:** 3.94s · **words:** 40
-
-
-**Check:** duration 8.5s outside 15-90s; pace 4.71 w/s outside yap band
-
-**Hook:** how to be sophomore slum no you can't accept your fate it's gonna be good
-
-**Transcript:**
-
-how to be sophomore slum no you can't accept your fate it's gonna be good for the first 10 seconds of sophomore year and then the rest of it is gonna be straight up junk there's genuinely no stopping it
-
-### alliehardinphotos · 100.1s
-
-https://www.instagram.com/reel/Dan42FNSrlZ
-
-**Pace:** 3.78 w/s · **beat:** 3.64s · **words:** 378
-
-
-**Check:** duration 100.1s outside 15-90s
-
-**Hook:** How to post on your main 101. Some people don't understand how serious posting on
-
-**Transcript:**
-
-How to post on your main 101. Some people don't understand how serious posting on Instagram is. You're posting on Instagram for the Jadies, the Little Men, the Aunties, the Hus, and the Homies. You need to be serious about this. I'm about to give y 'all some free ball. 1. Stop posting mirror selfies. It's not okay. You can post one max. Mirror selfies are for stories. 2. Food? Shorten it. One minimum. Maybe two. If it's a meal and a dessert. the meal and a dessert but it can't be from the same restaurant number four if you're not in the But it can't be from the same restaurant. photo don't post it i'm talking it's a picture of just somebody else not the vibes not the aesthetics i love me a detail shot but detail can be too much if it's just detail shots you're gonna need to tone it down we need a main course and we need side dishes but it can't just be side dishes because then it's just snack time and we're here for dinner i don't know if i'm on five or six scenery i love a good scenery pic especially if it's a vacation post scenery i love a good scenery pick especially like showing the beach or showing the woods or showing the mountains whatever it is super cute don't let it be the whole post you gotta even it out and last but not least don't clump everything together this is not a timeline this is art if you're gonna post a picture of yourself the next picture cannot be of you it needs to be of your food or it needs to be of an outfit or it needs to be a detail shot or it needs to be a landscape and then after that it can be detail shelter needs to be a landscape and then after that it can be a picture of you don't let two pictures of you touch don't let two details touch don't let two landscapes touch i can't stress this enough that was my tips if you haven't followed my instagram account this is it this is the one you're watching on but this is my main bye guys
-
-### maxwell_rhoe · 63.6s
-
-https://www.instagram.com/reel/Db7W9rAFfHL
-
-**Pace:** 3.84 w/s · **beat:** 3.78s · **words:** 244
-
-
-**Hook:** The reason why Gen Z is so obsessed with locking in is because we have
-
-**Transcript:**
-
-The reason why Gen Z is so obsessed with locking in is because we have to. We don't have the luxury of just going to college and just not really caring about anything and getting our job and life is great and dandy. No, it doesn't work like that anymore. The systems are failing on us. Going to college costs hundreds of thousands of dollars to then maybe get a job where you maybe are able to catch up into inflation in 20 years, pay off your student debt, and then you have to think about buying a house and having a family and how do you pay for all of that it's not working anymore the system for all of that. It's not working. doesn't work anymore so it is do or die people always say you know well you should be spending more time with your family follow your heart's desires and and i support all that i know they're right you know follow your dreams do these things but at a certain point you got to realize you have to succeed you have to make it in this economy in this modern world and make enough money to have the freedom that you want to live your life because despite how much i wish things were different and things were fair They just aren't and so you have to lock in because you aren't going to make it any other way
-
-### sungjulia_ · 29.0s
-
-https://www.instagram.com/reel/DZ_nYgBy98T
-
-**Pace:** 4.04 w/s · **beat:** 4.9s · **words:** 117
-
-
-**Hook:** As my dead grandma once said, son, you just gotta mog your ops on
-
-**Transcript:**
-
-As my dead grandma once said, son, you just gotta mog your ops on LinkedIn. Yes, they might have better drip. Yes, they might go to more functions. But I bet they're not the vice chair of internal affairs or a project manager or a director of admin. Once you hit 500 plus connections, your ops become irrelevant. It doesn't matter if you're a sub five in real life. Your experience section gotta look like the true Adam. Lock in for summer. Mockin' for summer. If you comment chat down below, I'll tell you how to mock your ops on LinkedIn. If you comment chat down below, I'll tell you how to mog your ops on LinkedIn.
-
-### instagram · 53.4s
-
-https://www.instagram.com/reel/DaMFb05qV8r
-
-**Pace:** 4.49 w/s · **beat:** 3.2s · **words:** 240
-
-
-**Check:** pace 4.49 w/s outside yap band
-
-**Hook:** One of the best projects you can put on your resume is reproducing the results
-
-**Transcript:**
-
-One of the best projects you can put on your resume is reproducing the results of a research paper, and here's how you can do that. First find a paper that you can understand. I recommend papers with code since it links papers, datasets, and code all in one place, but if you want more options, you can also check these out. Then read the abstract and introduction of the paper to understand these, and then upload the paper to a coding assistant of your choice, here I'm using Codex, and then ask it to read the paper and break it into implementation tasks that you can do. Here's a prompt that you can use. At this point, your project should look something like this. Now work through those tasks one at a time once everything is done. Project should look something like this. Now work through those tasks one at a time. Once everything is implemented, ask Codex to check your code against the paper and point out anything that's missing or different. This will probably take you the most amount of time. If you want to make the project even stronger, extend it by trying another dataset, comparing another model, or tuning the hyperparameters. After all of that, you now have an end -to -end project for your resume and your github. If you want to try it out, comment paper and I'll send you the whole workflow.
-
-### instagram · 31.5s
-
-https://www.instagram.com/reel/DauCabISws9
-
-**Pace:** 3.93 w/s · **beat:** 3.8s · **words:** 124
-
-
-**Hook:** sentences i read that actually changed my life until death all defeat is psychological one
-
-**Transcript:**
-
-sentences i read that actually changed my life until death all defeat is psychological one day you'll realize no one was really watching and you could have done what you wanted your lack of personal purpose is causing your romantic obsessions you must develop a strong opinion of yourself so you don't internalize the beliefs others have of you the degree to which a person can grow is directly proportional to the amount of truth he can accept about himself without running away sometimes you don't need time to heal but need more experiences to show your nervous system a different reality. You will always want what is in your field of potential so if you want it, it means you can have it.
+---
+
+## Archived
+
+- boysclub.world — https://www.instagram.com/reel/Dbq6b2xSMCQ
+- nycrufaaa — https://www.instagram.com/reel/DbJNWADxrCl
+- capriwang — https://www.instagram.com/reel/Da22-fiB8d8
+- fatimahs.guide — https://www.instagram.com/reel/DZiqHREKbbH
+- instagram — https://www.instagram.com/reel/DbA8yurJ-hf
+- junejueunn — https://www.instagram.com/reel/DcZ1xmZgMk9
+- alliehardinphotos — https://www.instagram.com/reel/Dan42FNSrlZ
+- maxwell_rhoe — https://www.instagram.com/reel/Db7W9rAFfHL
+- sungjulia_ — https://www.instagram.com/reel/DZ_nYgBy98T
+- instagram — https://www.instagram.com/reel/DaMFb05qV8r
+- instagram — https://www.instagram.com/reel/DauCabISws9
